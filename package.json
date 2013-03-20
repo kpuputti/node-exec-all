@@ -1,0 +1,9 @@
+{
+  "name": "exec-all",
+  "version": "0.0.0",
+  "description": "Execute a bunch of commands.",
+  "main": "index.js",
+  "repository": "",
+  "author": "Kimmo Puputti <kpuputti@gmail.com>",
+  "license": "MIT"
+}
