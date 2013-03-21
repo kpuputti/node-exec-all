@@ -1,7 +1,7 @@
 {
   "name": "exec-all",
-  "version": "0.0.0",
-  "description": "Execute a bunch of commands.",
+  "version": "0.1.0",
+  "description": "Execute a bunch of commands in parallel.",
   "main": "index.js",
   "repository": {
     "type": "git",

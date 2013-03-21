@@ -4,7 +4,7 @@ Execute a bunch of commands in parallel.
 
 ## TODO
 
-- docs, examples
+- docs
 - tests
 
 ## MIT LICENCE
