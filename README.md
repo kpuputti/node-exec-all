@@ -1,6 +1,11 @@
 # exec-all
 
-Execute a bunch of commands.
+Execute a bunch of commands in parallel.
+
+## TODO
+
+- docs, examples
+- tests
 
 ## MIT LICENCE
 
